@@ -1,5 +1,13 @@
-Django~=4.2.6
-djangorestframework~=3.14.0
-phonenumbers~=8.13.22
-twilio~=8.9.1
-decouple~=0.0.7
+django == 4.2.6
+djangorestframework == 3.14.0
+djangorestframework-simplejwt
+phonenumbers == 8.13.22
+drf-yasg
+twilio == 8.9.1
+whitenoise
+django-jazzmin
+python-decouple
+psycopg2
+pillow
+decouple == 0.0.7
+rest-framework-simplejwt
