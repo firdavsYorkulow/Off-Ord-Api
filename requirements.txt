@@ -101,7 +101,6 @@ pycparser==2.21
 pydantic==1.10.11
 pygame==2.5.2
 pyglet==2.0.9
-PyJWT
 pylet==0.0.1
 PySocks==1.7.1
 python-dateutil==2.8.2
