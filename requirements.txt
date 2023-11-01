@@ -3,7 +3,7 @@ crispy-bootstrap4
 crispy-bootstrap5
 gunicorn
 dj-rest-auth==5.0.1
-Django==4.2.6
+Django
 django-admin-soft-dashboard==1.0.12
 django-allauth==0.57.0
 django-channels==0.7.0
