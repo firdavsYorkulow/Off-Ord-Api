@@ -1,6 +1,6 @@
 asyncpg==0.28.0
-crispy-bootstrap4==2023.1
-crispy-bootstrap5==0.7
+crispy-bootstrap4
+crispy-bootstrap5
 gunicorn
 dj-rest-auth==5.0.1
 Django==4.2.6
