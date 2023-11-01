@@ -92,7 +92,7 @@ pipenv==2023.10.20
 platformdirs==3.11.0
 progressbar==2.5
 prompt-toolkit==3.0.39
-psycopg2==2.9.6
+psycopg2-binary
 pyaes==1.6.1
 pyarmor==8.3.10
 pyarmor.cli.core==4.3.6
