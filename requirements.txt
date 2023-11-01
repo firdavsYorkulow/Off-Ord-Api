@@ -7,7 +7,7 @@ twilio == 8.9.1
 whitenoise
 django-jazzmin
 python-decouple
-psycopg2
+psycopg2==2.9.6
 pillow
 decouple == 0.0.7
 rest-framework-simplejwt
